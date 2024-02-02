@@ -1,0 +1,15 @@
+.heading{
+font-size: 30px;
+border-radius: 6px;
+letter-spacing: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.emoji{
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#camera,#result{
+  border: 6px dashed cornflowerblue;
+width: 350px;
+height: 300px;
+}
